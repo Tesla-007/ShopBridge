@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopAuth", "ShopAuth.csproj", "{A03A43A4-EF70-489A-A00E-7671F91E0FC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopAuth.Domain", "..\ShopAuth.Domain\ShopAuth.Domain.csproj", "{345B2FEF-5167-4AD4-B15C-3F5107A51C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03A43A4-EF70-489A-A00E-7671F91E0FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03A43A4-EF70-489A-A00E-7671F91E0FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03A43A4-EF70-489A-A00E-7671F91E0FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03A43A4-EF70-489A-A00E-7671F91E0FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345B2FEF-5167-4AD4-B15C-3F5107A51C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345B2FEF-5167-4AD4-B15C-3F5107A51C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345B2FEF-5167-4AD4-B15C-3F5107A51C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345B2FEF-5167-4AD4-B15C-3F5107A51C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606FFA0B-D2F4-4476-94DF-1BCB85906A76}
+	EndGlobalSection
+EndGlobal

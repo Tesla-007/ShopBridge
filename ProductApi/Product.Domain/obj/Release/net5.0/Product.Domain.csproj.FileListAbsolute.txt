@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\bin\Release\net5.0\Product.Domain.deps.json
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\bin\Release\net5.0\Product.Domain.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\bin\Release\net5.0\Product.Domain.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\bin\Release\net5.0\Product.Domain.dll
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\bin\Release\net5.0\Product.Domain.pdb
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.dll
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\refint\Product.Domain.dll
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.pdb
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\Product.Domain.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Books\ShopBridge\ProductApi\Product.Domain\obj\Release\net5.0\ref\Product.Domain.dll
